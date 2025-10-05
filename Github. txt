@@ -1,0 +1,4 @@
+git init
+git add bot.py requirements.txt runtime.txt render.yaml
+git commit -m "Bot Discord Halloween en Python"
+git push
